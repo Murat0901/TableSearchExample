@@ -15,6 +15,7 @@
 		41D9B370271EEAD1008211CC /* SearchTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D9B36F271EEAD1008211CC /* SearchTableViewController.swift */; };
 		41D9B372271EEB1E008211CC /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D9B371271EEB1D008211CC /* Data.swift */; };
 		41D9B374271EF11C008211CC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 41D9B373271EF11C008211CC /* README.md */; };
+		41D9B376271F0249008211CC /* WordTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D9B375271F0249008211CC /* WordTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		41D9B36F271EEAD1008211CC /* SearchTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewController.swift; sourceTree = "<group>"; };
 		41D9B371271EEB1D008211CC /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		41D9B373271EF11C008211CC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		41D9B375271F0249008211CC /* WordTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				41D9B359271EE99A008211CC /* AppDelegate.swift */,
 				41D9B35B271EE99A008211CC /* SceneDelegate.swift */,
 				41D9B35F271EE99A008211CC /* Main.storyboard */,
+				41D9B375271F0249008211CC /* WordTableViewCell.swift */,
 				41D9B36F271EEAD1008211CC /* SearchTableViewController.swift */,
 				41D9B371271EEB1D008211CC /* Data.swift */,
 				41D9B362271EE9A2008211CC /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				41D9B370271EEAD1008211CC /* SearchTableViewController.swift in Sources */,
 				41D9B35C271EE99A008211CC /* SceneDelegate.swift in Sources */,
 				41D9B372271EEB1E008211CC /* Data.swift in Sources */,
+				41D9B376271F0249008211CC /* WordTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
