@@ -16,6 +16,7 @@
 		41D9B372271EEB1E008211CC /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D9B371271EEB1D008211CC /* Data.swift */; };
 		41D9B374271EF11C008211CC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 41D9B373271EF11C008211CC /* README.md */; };
 		41D9B376271F0249008211CC /* WordTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D9B375271F0249008211CC /* WordTableViewCell.swift */; };
+		41D9B378271FF633008211CC /* tablesearch.gif in Resources */ = {isa = PBXBuildFile; fileRef = 41D9B377271FF633008211CC /* tablesearch.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		41D9B371271EEB1D008211CC /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		41D9B373271EF11C008211CC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		41D9B375271F0249008211CC /* WordTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordTableViewCell.swift; sourceTree = "<group>"; };
+		41D9B377271FF633008211CC /* tablesearch.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tablesearch.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				41D9B373271EF11C008211CC /* README.md */,
+				41D9B377271FF633008211CC /* tablesearch.gif */,
 				41D9B358271EE99A008211CC /* TableSearch */,
 				41D9B357271EE99A008211CC /* Products */,
 			);
@@ -138,6 +141,7 @@
 				41D9B363271EE9A2008211CC /* Assets.xcassets in Resources */,
 				41D9B374271EF11C008211CC /* README.md in Resources */,
 				41D9B361271EE99A008211CC /* Main.storyboard in Resources */,
+				41D9B378271FF633008211CC /* tablesearch.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
